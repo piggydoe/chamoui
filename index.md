@@ -15,6 +15,6 @@ im a self taught 13 year old programmer! i started when i was about 11 years old
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Piggydoe&repo=Valorant-AutoLocker)
 
-3.
+3. [DoeHack (Minecraft)](https://github.com/piggydoe/DoeHackBadHack)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Piggydoe&repo=DoeHackBadHack)
