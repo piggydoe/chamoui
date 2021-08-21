@@ -4,6 +4,7 @@ thats me!
 ### Hi im osu
 
 im a self taught 13 year old programmer! i started when i was about 11 years old with html & css. Now python is my favorite language!
+my dream is to be a software developer!
 
 ### Most Proud of these!
 
