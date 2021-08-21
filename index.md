@@ -1,4 +1,4 @@
-## Hi im osutabletuser//Piggydoe
+## Hi im osu
 
 You can use the [editor on GitHub](https://github.com/piggydoe/osu-info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
