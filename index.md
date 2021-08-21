@@ -1,10 +1,10 @@
-## Hi im osu
+##osutabletuser
 
-You can use the [editor on GitHub](https://github.com/piggydoe/osu-info/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+### Hi im osu
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+im a self taught 13 year old programmer! i started when i was about 11 years old with html & css. Now python is my favorite language!
 
-### Markdown
+### Most Proud of these!
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
