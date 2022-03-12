@@ -8,7 +8,7 @@ my dream is to be a software developer!
 
 ### Most Proud of these!
 
-1. [Twitch Plugger](https://github.com/piggydoe/TwitchPlugger)
+1. [Python Password Generator (with ui)](https://github.com/piggydoe/PythonPasswordGenerator)
 
 ![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Piggydoe&repo=TwitchPlugger)
 
